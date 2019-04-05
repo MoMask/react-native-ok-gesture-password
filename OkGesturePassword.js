@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
 
 const {width: deviceWidth, height: deviceHeight} = Dimensions.get('window')
 
-export default class SmoothGesturePassword extends Component {
+export default class OkGesturePassword extends Component {
 
     static defaultProps = {
         lineWidth: 2,

@@ -14,7 +14,7 @@ npm install react-native-ok-gesture-password --save
 ```js
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View, Alert} from 'react-native';
-import SmoothGesturePassword from "./source/SmoothGesturePassword";
+import OkGesturePassword from "./source/OkGesturePassword";
 
 type
 Props = {};
@@ -52,7 +52,7 @@ export default class App extends Component<Props> {
                         <View style={[styles.headCircle, {backgroundColor: this.state.point9}]}/>
                     </View>
                 </View>
-                <SmoothGesturePassword
+                <OkGesturePassword
                     style={styles.gesturePassword}
                     pointBackgroundColor={'white'}
                     showArrow={false}

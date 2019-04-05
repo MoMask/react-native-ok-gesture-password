@@ -1,12 +1,12 @@
 {
   "name": "react-native-ok-gesture-password",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A smooth gesture password locker for react-native apps",
   "main": "OkGesturePassword.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
- "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/MoMask/react-native-ok-gesture-password.git"
   },
@@ -15,7 +15,7 @@
   ],
   "author": "momask",
   "license": "MIT",
-   "bugs": {
+  "bugs": {
     "url": "https://github.com/MoMask/react-native-ok-gesture-password/issues"
   },
   "homepage": "https://github.com/MoMask/react-native-ok-gesture-password/blob/master/README.md"

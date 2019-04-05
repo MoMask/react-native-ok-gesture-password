@@ -35,6 +35,6 @@ onReset              | func    | Yes      |              | determine the listene
 onFinish             | func    | Yes      |              | determine the listener which is called after gesture actions is finished
 
 [0]: https://github.com/react-native-component/react-native-smart-gesture-password
-[1]: https://github.com/MoMask/react-native-smooth-gesture-password/blob/master/screehost/demo.gif
+[1]: https://github.com/MoMask/react-native-ok-gesture-password/blob/master/screehost/demo.gif
 
 

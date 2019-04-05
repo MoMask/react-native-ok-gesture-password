@@ -1,6 +1,6 @@
 {
   "name": "react-native-ok-gesture-password",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A smooth gesture password locker for react-native apps",
   "main": "OkGesturePassword.js",
   "scripts": {
